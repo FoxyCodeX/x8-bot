@@ -1,0 +1,37 @@
+{
+  "list": {
+    "private": [
+      {
+        "id": "6285158342254@s.whatsapp.net",
+        "key": "A",
+        "response": "B",
+        "isImage": false,
+        "image_url": "-"
+      }
+    ],
+    "group": [
+      {
+        "id": "120363043774059784@g.us",
+        "key": "・📃〢JADWAL PELAJARAN",
+        "response": "",
+        "isImage": true,
+        "image_url": "https://telegra.ph/file/f99d7894408599b28d123.jpg"
+      }
+    ]
+  },
+  "users": {},
+  "sticker": {},
+  "database": {},
+  "settings": {
+    "628818101967@s.whatsapp.net": {
+      "anticall": true,
+      "status": 0,
+      "autobio": false,
+      "templateImage": true,
+      "templateVideo": false,
+      "templateGif": false,
+      "templateMsg": false,
+      "templateLocation": false
+    }
+  }
+}
